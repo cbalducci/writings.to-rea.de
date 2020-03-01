@@ -25,4 +25,4 @@ DEFAULT_PAGINATION = 1
 RELATIVE_URLS = True
 
 # Personalisations
-THEME = '../pelican-themes/monospace'
+THEME = './theme/monospace'
