@@ -14,7 +14,7 @@ Here I mainly write about management, coaching, leadership, agile and team
 dynamics.
 
 If you are looking to hire a software engineering manager you might want
-to take a look at [my CV](./pages/curriculum.html) or maybe just drop
+to take a look at [my CV](https://something.to-rea.de/pages/curriculum.html) or maybe just drop
 me an [email](mailto:cristiano.balducci@gmail.com).
 
 On the internet, you can also find me on
