@@ -36,29 +36,27 @@
 
         <div id="sidebar">
             <h1><a href="{{ SITEURL }} " title="title">{{ SITENAME }}</a></h1>
-            <span class="description">{{ DESCRIPTION }} </span>
+            <ul>
+            {% if tags|length > 0 %}
+                <li>:: <a href="{{ SITEURL }}/tags.html">Tags</a></li>
+            {% endif %}
+            {% if categories|length > 0 %}
+                <li>:: <a href="{{ SITEURL }}/categories.html">Categories</a></li>
+            {% endif %}
+                <li>:: <a href="{{ SITEURL }}/archives.html">Archives</a></li>
+            {% for page in pages %}
+                {{ page.content }}
+            {% endfor %}
+            </ul>
             <!-- <span class="feed"><a href="">RSS</a> | <a href="">Atom</a></span> -->
         </div>
 
         <div id="footer">
-            <nav>
-                <ul>
-                {% for page in pages %}
-                    <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a>{% if not loop.last %} ::{% endif %}</li>
-                {% endfor %}
-                {% if categories|length > 1 %}
-                    <li>:: <a href="{{ SITEURL }}/categories.html">Categories</a></li>
-                {% endif %}
-                {% if tags|length > 1 %}
-                    <li>:: <a href="{{ SITEURL }}/tags.html">Tags</a></li>
-                {% endif %}
-                </ul>
-            </nav>
 
             <div id="credits">
                 <span>Adapted from <a href="http://wordpress.org/themes/monospace">Monospace</a> || Created with <a href="">Pelican</a></span>
             </div>
-                
+
         </div>
 
     {% include 'analytics.html' %}

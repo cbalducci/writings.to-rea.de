@@ -2,17 +2,25 @@ title: About me
 date: 02/25/2020
 author: Cristiano Balducci
 
-Hello, I'm Cristiano and I write stuff!
+---
+Blog series:
 
-![cbldc][avatar]
+*  X - [Troubleshooting team delivery](./category/team-troubleshooting.html)
+<!-- *  X - [Book reviews](./category/capsule.html) -->
+
+---
+Hello, I'm Cristiano and I write stuff!
+Here I mainly write about management, coaching, leadership, agile and team
+dynamics.
 
 If you are looking to hire a software engineering manager you might want
 to take a look at [my CV](https://cbalducci.github.io) or maybe just drop
 me an [email](mailto:cristiano.balducci@gmail.com).
 
 On the internet, you can also find me on
-[linkedin](https://www.linkedin.com/in/cristianobalducci/),
+[linkedin](https://www.linkedin.com/in/cristianobalducci/) or
 [medium](https://medium.com/@cbldc). You can also find me on
 [twitter](https://twitter.com/cbldc_) but I am not terribly active there.
 
+![cbldc][avatar]
 [avatar]: {static}/images/me.jpg

@@ -4,8 +4,7 @@ date: 03/06/2020
 author: Cristiano Balducci
 category: capsule
 summary: A great toolbox to start coaching.
-status: hidden
-
+status: draft
 ###### In the Capsule blog series you will find the core idea, takeaways and a summary of interesting books I read.
 
 ## Core idea

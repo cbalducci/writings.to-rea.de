@@ -19,11 +19,10 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-DEFAULT_PAGINATION = 1
+DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = False
 
 # Personalisations
 THEME = './theme/monospace'
-DESCRIPTION = 'I mainly write about management, coaching, leadership, agile and team dynamics. The CAPSULE series is about summarising interesting books I have read.'
