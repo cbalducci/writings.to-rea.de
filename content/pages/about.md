@@ -23,6 +23,6 @@ On the internet, you can also find me on
 [twitter](https://twitter.com/cbldc_) but I am not terribly active there.
 
 ---
-Send me a [book suggestion!](https://suuggestions.to-rea.de)
+Send me a [book suggestion!](https://suggestions.to-rea.de)
 ![cbldc][avatar]
 [avatar]: {static}/images/me.jpg
