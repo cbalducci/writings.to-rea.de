@@ -1,8 +1,9 @@
 title: How to survive your own Performance Review (as a manager).
 tags: management, performance review, mental health
 date: 03/03/2020
+category: management
 author: Cristiano Balducci
-summary: Adapting your ways of working to make your Performance Review less stressfull 
+summary: Adapting your ways of working to make your Performance Review less stressfull
 status: hidden
 # How do you survive your own Performance Review as a manager?
 
@@ -33,7 +34,7 @@ Looking back at the questions that triggered my self-doubt spiral, we can broadl
 ### What have you achieved?
 My first action was to start write down my achievements regularly. At the beginning it felt extremely awkward (no one like to brag!) but, as time went by it became more and more natural. The focusing question I use to start the thought process is "How have you been serving the team or the wider organisation this week?". I then write it down using a slightly tuned version of the STAR model:
 
-* **Situation**: What was the context you were operating in? 
+* **Situation**: What was the context you were operating in?
 * **Task**: What would be expected of you in this context?
 * **Action**: How did you act? What did you do?
 * **Result**: What was the net outcome of your actions? How is the context changed for the better now?
@@ -63,7 +64,7 @@ After I have started these practices, I feel much more positive on the value I b
 --
 #### Sources and Additional Resources
 
-* "Managing up!" podcast 
+* "Managing up!" podcast
 	- [Priorities, Impact and Wrangling the "Manager's Calendar".](https://managingup.simplecast.com/episodes/050e2cca)
 	- [The Invisible Work of Management.](https://managingup.simplecast.com/episodes/the-invisible-work-of-management)
 * ["Radical Candor"](https://www.goodreads.com/book/show/39313439-radical-candor)

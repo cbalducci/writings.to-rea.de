@@ -1,8 +1,9 @@
-title: Debugging the Delivery of a Team (2/4) 
-tags: agile, team delivery, process debugging, burndown 
+title: Debugging the Delivery of a Team (2/4)
+tags: agile, team delivery, process debugging, burndown
+category: agile
 date: 02/26/2020
 author: Cristiano Balducci
-summary: Troubleshooting a team struggling to ship. 
+summary: Troubleshooting a team struggling to ship.
 
 # Debugging the Delivery of a Team (2/4)
 	An articles series on troubleshooting a team struggling to ship.

@@ -2,6 +2,7 @@ title: CAPSULE 1: Effective Modern Coaching
 tags: coaching, capsule, books
 date: 03/06/2020
 author: Cristiano Balducci
+category: capsule
 summary: A great toolbox to start coaching.
 status: hidden
 
@@ -10,7 +11,7 @@ status: hidden
 ## Core idea
 This book describes a coaching framework based on active listening and effective communication. It puts it in context with plenty of examples and does a great job at keeping clarity of purpose.
 
-**My key takeaway**: directive approaches (E.G. proposing an option for consideration by the client) have a place in the coaching toolbox. They also have their caveats and need to be used with great attention. 
+**My key takeaway**: directive approaches (E.G. proposing an option for consideration by the client) have a place in the coaching toolbox. They also have their caveats and need to be used with great attention.
 
 ### Scorecard
 * **readability**: 4 / 5 (0 reads like a dictionary, 5 reads like a good novel)
@@ -25,9 +26,9 @@ In this part the core concepts of the book are introduced, establishing the term
 The GROW model, the T-model (expand and focus), non directive techniques and a chapter on "Proposing". This part of the book is the one about explaining the toolbox, building on the concepts from Part I.
 
 ### Part III - Coaching in the workplace
-In Part III coaching is analysed in the context of the workplace, looking at it from different sides. Internally, on the relationship with leadership when coaching leaders or when coaching as a leader. Externally, when working as a business coach. 
+In Part III coaching is analysed in the context of the workplace, looking at it from different sides. Internally, on the relationship with leadership when coaching leaders or when coaching as a leader. Externally, when working as a business coach.
 
 Especially interesting the chapter on "Coaching teams", where the author uses a different model from the more common "Forming-Storming-Norming-Performing".
 
-### Part IV - Coaching and genius 
+### Part IV - Coaching and genius
 In these final chapters the book takes a more philosophical approach on coaching and unlocking human potential. It includes an interesting piece on finding your own coaching style.

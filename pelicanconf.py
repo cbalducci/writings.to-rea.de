@@ -22,7 +22,7 @@ AUTHOR_FEED_RSS = None
 DEFAULT_PAGINATION = 1
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+RELATIVE_URLS = False
 
 # Personalisations
 THEME = './theme/monospace'
