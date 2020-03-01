@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Cristiano Balducci'
-SITENAME = 'Writings'
+SITENAME = 'Something to read'
 SITEURL = 'https://cbalducci.github.io/writings.to-rea.de'
 
 PATH = 'content'
@@ -26,3 +26,4 @@ RELATIVE_URLS = True
 
 # Personalisations
 THEME = './theme/monospace'
+DESCRIPTION = 'I mainly write about management, coaching, leadership, agile and team dynamics. The CAPSULE series is about summarising interesting books I have read.'
