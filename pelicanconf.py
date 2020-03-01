@@ -8,7 +8,7 @@ SITEURL = 'https://cbalducci.github.io/writings.to-rea.de'
 
 PATH = 'content'
 
-TIMEZONE = 'UTC'
+TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = 'en'
 
