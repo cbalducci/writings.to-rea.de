@@ -1,8 +1,9 @@
 title: CAPSULE 1: Effective Modern Coaching
 tags: coaching, capsule, books
-date: 01/03/2020
+date: 03/06/2020
 author: Cristiano Balducci
 summary: A great toolbox to start coaching.
+status: hidden
 
 ###### In the Capsule blog series you will find the core idea, takeaways and a summary of interesting books I read.
 

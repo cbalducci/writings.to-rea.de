@@ -1,8 +1,9 @@
 title: How to survive your own Performance Review (as a manager).
 tags: management, performance review, mental health
-date: 03/06/2020
+date: 03/03/2020
 author: Cristiano Balducci
 summary: Adapting your ways of working to make your Performance Review less stressfull 
+status: hidden
 # How do you survive your own Performance Review as a manager?
 
 ## TL;DR
