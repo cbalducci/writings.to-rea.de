@@ -5,7 +5,7 @@ author: Cristiano Balducci
 ---
 Blog series:
 
-*  X - [Troubleshooting team delivery](./category/team-troubleshooting.html)
+*  X - [Troubleshooting team delivery](https://something.to-rea.de/category/team-troubleshooting.html)
 <!-- *  X - [Book reviews](./category/capsule.html) update -->
 
 ---
