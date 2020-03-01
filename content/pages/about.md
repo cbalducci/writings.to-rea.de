@@ -5,7 +5,7 @@ author: Cristiano Balducci
 ---
 Blog series:
 
-*  X - [Troubleshooting team delivery](https://something.to-rea.de/category/team-troubleshooting.html)
+*  X - [Troubleshooting team delivery][troubleshooting]
 <!-- *  X - [Book reviews](./category/capsule.html) update -->
 
 ---
@@ -14,7 +14,7 @@ Here I mainly write about management, coaching, leadership, agile and team
 dynamics.
 
 If you are looking to hire a software engineering manager you might want
-to take a look at [my CV](https://something.to-rea.de/pages/curriculum.html) or maybe just drop
+to take a look at [my CV][curriculum] or maybe just drop
 me an [email](mailto:cristiano.balducci@gmail.com).
 
 On the internet, you can also find me on
@@ -24,5 +24,8 @@ On the internet, you can also find me on
 
 ---
 Send me a [book suggestion!](https://suggestions.to-rea.de)
+
 ![cbldc][avatar]
 [avatar]: {static}/images/me.jpg
+[curriculum]: {static}/pages/curriculum.html
+[troubleshooting]: {static}/category/team-troubleshooting.html
