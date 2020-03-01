@@ -1,3 +1,7 @@
+title: About me
+date: 02/25/2020
+author: Cristiano Balducci
+
 Hello, I'm Cristiano and I write stuff!
 
 ![cbldc][avatar]
