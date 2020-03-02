@@ -17,7 +17,7 @@ If you are looking to hire a software engineering manager you might want
 to take a look at [my CV][curriculum] or maybe just drop
 me an [email](mailto:cristiano.balducci@gmail.com).
 
-On the internet, you can also find me on
+On the internet, you can find me on
 [linkedin](https://www.linkedin.com/in/cristianobalducci/) or
 [medium](https://medium.com/@cbldc). You can also find me on
 [twitter](https://twitter.com/cbldc_) but I am not terribly active there.
