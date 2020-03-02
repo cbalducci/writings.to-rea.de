@@ -4,7 +4,6 @@ date: 03/03/2020
 category: management
 author: Cristiano Balducci
 summary: Adapting your ways of working to make your Performance Review less stressful.
-status: draft
 # How do you survive your own Performance Review as a manager?
 
 ## TL;DR
