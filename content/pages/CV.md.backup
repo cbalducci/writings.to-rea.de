@@ -47,19 +47,25 @@ Terraform, Kitchen-ci, Cloudera, Linux, DevOps practices, Agile, Kanban, Python,
 _10/2018 - present_
 
 Squad Lead for a backend engineering team.
-Responsibilities of this role are to challenge and lead a team of 8 engineers, supporting them in delivering resilient software solutions at scale. On top of that, I am responsible of managing the road map, in collaboration with the Product Manager, and of supporting the members of the team on their career development.
+Responsibilities of this role are to challenge and lead a team of 8 engineers, supporting them in delivering resilient software solutions at scale. On top of that, I am responsible of managing the road map, supported by a Product Owner, and of supporting the members of the team on their career development.
 
-While in this position, I have helped the team achieve an high level of agile maturity and of organisational resiliency.
+While in this position, I have helped the team achieve an high level of agile maturity and of organisational resiliancy.
 
-As a stretch responsibility, I have lead an additional business critical initiative. This was a completely different work stream from my current team delivery and involved assembling a cross functional team (spanning engineering, finance, sales and legal), scoping the problem, identifying a solution, implementing it and managing C-level stakeholders.
+As a stretch responsibility, I have lead an additional business critical initiative. This was a completely different work stream from my current team delivery and involved assembling a cross functional team (spanning engineering, finance and legal), scoping the problem, identifying a solution, implementing it and managing C-level stakeholders expectations.
 
 ### Engineering Manager @ NCR
-_06/2017 - 10/2018_
+_12/2017 - 10/2018_
 
 Line manager for the Engineering Operations team.
-In this position i was responsible for the team's well being and deliverables, while also acting as technical lead and Agile coach.
+In this position i was responsible for the team's well being and deliverables, while also acting as technical lead and Kanban coach.
 
-The most notable project was the implementation of a Continuous Integration pipeline that enabled the organisation to reach higher levels of agility and software quality.
+The most notable project was the implementation of an updated Continuous Integration pipeline that will enable the organisation to reach higher levels of agility and software quality.
+
+### Techincal Scrum Master @ NCR
+_06/2017 - 12/2017_
+
+Scrum Master and Technical Lead for the Engineering Operations team with a focus on Big Data technologies.
+In this role I acted as team coordinator applying agile methodologies to our work-flow, moving from scrum to Kanban.
 
 My biggest accomplishment in this position was the introduction of TDD methodology in our automation development work-flow. This initiative lead to a general re-haul of our complete automation code base, with a sensible improvement in code quality and reliability.
 
@@ -74,15 +80,9 @@ My most notable achievement in this role was the acquisition of a considerable k
 Another important contribution was the creation of an **automation tool** that allowed the rest of the team
 to manage Big Data cluster configurations as simple yaml files and store it under version control.
 
-### Various Roles @ NoemaLife
-_12/2008 - 12/2015_
+### IT Architect @ NoemaLife
+_12/2012 - 12/2015_
 
-#### System Engineering Team Lead
-
-Head of a team aimed to implement and maintain Customer’s infrastructure functional to NoemaLife Spa solutions using various enterprise level technologies such as VmWare ESX, Oracle RDBMS, Red Hat Enterprise Linux, Red Hat HA Suite, Microsoft Windows Server 2003, Microsoft Windows Server 2008, Microsoft Windows Failover Cluster.
-In this role my team contributed to 24/7 availability for both Operating System and RDBMS problems.
-
-#### System Architect 
 This role’s main task is supporting Foreign Sales Department and the Bid Management Department, designing the IT Architectures to be proposed.
 
 Key Achievements:
@@ -99,7 +99,14 @@ Key Achievements:
    -   Capacity Planning
    -   Load balancing
 
-#### Support specialist
+### Senior System Administrator @ NoemaLife
+_12/2010 - 12/2012_
+
+Head of a team aimed to implement and maintain Customer’s infrastructure functional to NoemaLife Spa solutions using various enterprise level technologies such as VmWare ESX, Oracle RDBMS, Red Hat Enterprise Linux, Red Hat HA Suite, Microsoft Windows Server 2003, Microsoft Windows Server 2008, Microsoft Windows Failover Cluster.
+In this role my team contributed to 24/7 availability for both Operating System and RDBMS problems.
+
+### Support specialist @ NoemaLife
+_12/2008 - 12/2010_
 
 Worked in the company's Customer Service Division. Quickly gained a lot of operational experience.
 After a year, put in charge for first level Oracle DBA maintenance and acted as Monitoring Systems SME.
