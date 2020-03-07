@@ -51,8 +51,8 @@ I was extremely lucky that the people in my personal life were supporting and un
 &lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/14062004-thinking-fast-and-slow"&gt;"Thinking, Fast and Slow&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/21413978-giving-effective-feedback"&gt;"HBR - Giving Effective Feedback&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content><category term="management"></category><category term="management"></category><category term="performance review"></category><category term="mental health"></category></entry><entry><title>Debugging the Delivery of a Team (2/4)</title><link href="https://something.to-rea.de/debugging-the-delivery-of-a-team-24.html" rel="alternate"></link><published>2020-02-26T00:00:00+00:00</published><updated>2020-02-26T00:00:00+00:00</updated><author><name>Cristiano Balducci</name></author><id>tag:something.to-rea.de,2020-02-26:/debugging-the-delivery-of-a-team-24.html</id><summary type="html">&lt;p&gt;Second article in the team troubleshooting serie, where we identify and solve the first limiting factor.&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Debugging the Delivery of a Team (2/4)&lt;/h1&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;An articles series on troubleshooting a team struggling to ship.
-&lt;/pre&gt;&lt;/div&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="err"&gt;An articles series on troubleshooting a team struggling to ship.&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;h2&gt;Previous episodes&lt;/h2&gt;
@@ -77,8 +77,8 @@ We tended to address both goal setting and task-estimating in a single session. 
 &lt;blockquote&gt;
 &lt;p&gt;This content is based on a &lt;a href="https://medium.com/@SkyscannerEng/dont-burn-out-burn-down-how-we-learned-to-sprint-on-shifting-sands-a67341c34fa8"&gt;previous article&lt;/a&gt; published on October 2, 2019.&lt;/p&gt;
 &lt;/blockquote&gt;</content><category term="team troubleshooting"></category><category term="agile"></category><category term="team delivery"></category><category term="process debugging"></category><category term="burndown"></category></entry><entry><title>Debugging the Delivery of a Team (1/4)</title><link href="https://something.to-rea.de/debugging-the-delivery-of-a-team-14.html" rel="alternate"></link><published>2020-02-25T00:00:00+00:00</published><updated>2020-02-25T00:00:00+00:00</updated><author><name>Cristiano Balducci</name></author><id>tag:something.to-rea.de,2020-02-25:/debugging-the-delivery-of-a-team-14.html</id><summary type="html">&lt;p&gt;First article in the Team Troubleshooting serie. Where we set the scene for the following blogs.&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Debugging the Delivery of a Team (1/4)&lt;/h1&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;An articles series on troubleshooting a team struggling to ship.
-&lt;/pre&gt;&lt;/div&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="err"&gt;An articles series on troubleshooting a team struggling to ship.&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;h2&gt;Falling in line&lt;/h2&gt;
