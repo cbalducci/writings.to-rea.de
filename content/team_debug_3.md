@@ -1,10 +1,10 @@
 title: Debugging the Delivery of a Team (3/4)
 tags: agile, team delivery, process debugging, burndown
 category: team troubleshooting
-date: 03/08/2020
+date: 03/12/2020
 author: Cristiano Balducci
 summary: Third article in the team troubleshooting serie, where we deal with blocked tasks.
-
+status: draft
 # Debugging the Delivery of a Team (3/4)
 An articles series on troubleshooting a team struggling to ship.
 
