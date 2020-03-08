@@ -9,10 +9,10 @@ summary: Second article in the team troubleshooting serie, where we identify and
 	An articles series on troubleshooting a team struggling to ship.
 
 ## Previous episodes
-In the previous [blog](https://medium.com/@cbldc_/debugging-the-delivery-of-a-team-1-of-4-49a280c82785) we introduced the problem. We have a team, working with scrum, that is going through the movements but struggling to ship software.
+In the previous [blog](https://something.to-rea.de/debugging-the-delivery-of-a-team-14.html) we introduced the problem. We have a team, working with scrum, that is going through the movements but struggling to ship software.
 
 Now we will look into our first troubleshooting iterations. As all the articles in this series, it starts with a graph.
-
+![Burndown chart][burndown1]
 ## Flat line
 
 This was what our burn down chart looked like. We were flatlining —  we were working hard, and yet failing to complete most (any?) of the tasks that we were supposed to do, not delivering value at the end of the sprint. But **why**?
@@ -45,4 +45,5 @@ I know that burndown charts have a bad reputation and I don't want to suggest th
 
 
 > This content is based on a [previous article](https://medium.com/@SkyscannerEng/dont-burn-out-burn-down-how-we-learned-to-sprint-on-shifting-sands-a67341c34fa8) published on October 2, 2019.
+[burndown1]: {static}/images/burndown1.png
 [burndown3]: {static}/images/burndown3.png
