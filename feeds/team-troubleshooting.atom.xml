@@ -4,7 +4,7 @@
 &lt;h2&gt;Previous episodes&lt;/h2&gt;
 &lt;p&gt;In previous blogs we set the &lt;a href="https://something.to-rea.de/debugging-the-delivery-of-a-team-14.html"&gt;context&lt;/a&gt;  (struggling to ship software) and our &lt;a href="https://something.to-rea.de/debugging-the-delivery-of-a-team-24.html"&gt;first steps&lt;/a&gt; into improving it.&lt;/p&gt;
 &lt;p&gt;This is where we left our team. After the previous changes in our ways of working, our sprints started to look a bit healthier.. in the first half at least.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Burndown Chart" src="burndown3"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Burndown Chart" src="https://something.to-rea.de/images/burndown3.png"&gt;&lt;/p&gt;
 &lt;h2&gt;Hitting the wall.&lt;/h2&gt;
 &lt;p&gt;The above chart exhibits a common pattern that appears when all the tasks in a sprint are blocked. When this happens, engineers will start to to pull new tasks in the sprint in order to stay utilised. &lt;/p&gt;
 &lt;p&gt;While this is done with the best intentions, the net result is that less work gets done! 
@@ -28,7 +28,7 @@ To achieve this we changed our "just in time" backlog creation process to addres
 &lt;/blockquote&gt;
 &lt;h3&gt;Where we landed&lt;/h3&gt;
 &lt;p&gt;As with most of the systems, solving a problem will surface another and the further you go in optimising them, the harder the problems become.&lt;/p&gt;
-&lt;p&gt;![Burndown Chart][burdown5]&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Burndown Chart" src="https://something.to-rea.de/images/burndown5.png"&gt;&lt;/p&gt;
 &lt;p&gt;Good, but still not good enough.. in the next blog we will iterate once more and tweak the team a bit more. &lt;/p&gt;
 &lt;hr&gt;
 &lt;h4&gt;Disclaimer&lt;/h4&gt;
