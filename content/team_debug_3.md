@@ -13,7 +13,7 @@ In previous blogs we set the [context](https://something.to-rea.de/debugging-the
 
 This is where we left our team. After the previous changes in our ways of working, our sprints started to look a bit healthier.. in the first half at least.
 
-![Burndown Chart](burndown3)
+![Burndown Chart][(]burndown3]
 
 ## Hitting the wall.
 
