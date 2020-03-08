@@ -6,7 +6,7 @@ author: Cristiano Balducci
 Blog series:
 
 *  X - [Troubleshooting team delivery][troubleshooting]
-<!-- *  X - [Book reviews](./category/capsule.html) update -->
+*  X - [Book reviews](./category/capsule.html)
 
 ---
 Hello, I'm Cristiano and I write stuff!
