@@ -13,7 +13,7 @@ In previous blogs we set the [context](https://something.to-rea.de/debugging-the
 
 This is where we left our team. After the previous changes in our ways of working, our sprints started to look a bit healthier.. in the first half at least.
 
-![Burndown Chart][(]burndown3]
+![Burndown Chart][burndown3]
 
 ## Hitting the wall.
 
@@ -56,7 +56,7 @@ One thing you probably noticed is that we moved to a sprint length of two weeks.
 
 As with most of the systems, solving a problem will surface another and the further you go in optimising them, the harder the problems become.
 
-![Burndown Chart][burdown5]
+![Burndown Chart][burndown5]
 
 Good, but still not good enough.. in the next blog we will iterate once more and tweak the team a bit more. 
 
