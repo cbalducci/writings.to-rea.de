@@ -5,6 +5,10 @@
 &lt;p&gt;In previous blogs we set the &lt;a href="https://something.to-rea.de/debugging-the-delivery-of-a-team-14.html"&gt;context&lt;/a&gt;  (struggling to ship software) and our &lt;a href="https://something.to-rea.de/debugging-the-delivery-of-a-team-24.html"&gt;first steps&lt;/a&gt; into improving it.&lt;/p&gt;
 &lt;p&gt;This is where we left our team. After the previous changes in our ways of working, our sprints started to look a bit healthier.. in the first half at least.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Burndown Chart" src="https://something.to-rea.de/images/burndown3.png"&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;A note on iteration length&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;One thing you probably noticed is that we moved to a sprint length of two weeks. This was done in the spirit of removing a bit of tension from the system: longer iterations are more forgiving than short one.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h2&gt;Hitting the wall.&lt;/h2&gt;
 &lt;p&gt;The above chart exhibits a common pattern that appears when all the tasks in a sprint are blocked. When this happens, engineers will start to to pull new tasks in the sprint in order to stay utilised. &lt;/p&gt;
 &lt;p&gt;While this is done with the best intentions, the net result is that less work gets done! 
@@ -22,10 +26,6 @@ To achieve this we changed our "just in time" backlog creation process to addres
 &lt;p&gt;In order to address the blockers, we need to &lt;strong&gt;find&lt;/strong&gt; them first. To make it easier, we made it explicit that, when creating the backlog, it was also required to create a graph describing the blocking/blocker relationships in the sprint. &lt;/p&gt;
 &lt;p&gt;The result looks something like this:&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Dependencies graph" src="https://something.to-rea.de/images/dependencies.jpg"&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;A note on iteration length&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;One thing you probably noticed is that we moved to a sprint length of two weeks. This was done in the spirit of removing a bit of tension from the system: longer iterations are more forgiving than short one.&lt;/p&gt;
-&lt;/blockquote&gt;
 &lt;h3&gt;Where we landed&lt;/h3&gt;
 &lt;p&gt;As with most of the systems, solving a problem will surface another and the further you go in optimising them, the harder the problems become.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Burndown Chart" src="https://something.to-rea.de/images/burndown5.png"&gt;&lt;/p&gt;
