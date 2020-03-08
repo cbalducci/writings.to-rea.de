@@ -15,7 +15,7 @@ At the end of 2018, I took a job at a new company where, for the first time in m
 In my new workplace, as in many other companies in the industry, individual performances are assessed in 6 months cycles via a mix of self-evaluation, team feedback and manager input.
 These data sources are then used to answer a core question: *"What was the impact of this person in the company?"*
 
-### Measuring impact a manager.
+### Measuring impact as a manager.
 While this lens makes it much easier to have performance conversations with engineers, applying it to managers is much more difficult.
 
 Evaluating impact as a manager is a tricky proposition. Do you consider your team's impact as yours? How can you split between what the team would have achieved without you and what you enabled the team to achieve? You are not the one writing the code, after all..
@@ -58,9 +58,10 @@ Finally, I have introduced a monthly touch point with my manager, where we discu
 
 ## In the end..
 After I have started these practices, I feel much more positive on the value I bring in my team. I am also much less worried about discovering too late that I am neglecting some aspects of supporting my team, since I am confident that they will be raised early enough to give me time to correct course.
+
 *"If it hurts, do it more often and bring the pain forward"*
 
---
+---
 #### Sources and Additional Resources
 
 * "Managing up!" podcast

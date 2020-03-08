@@ -12,7 +12,9 @@ summary: Second article in the team troubleshooting serie, where we identify and
 In the previous [blog](https://something.to-rea.de/debugging-the-delivery-of-a-team-14.html) we introduced the problem. We have a team, working with scrum, that is going through the movements but struggling to ship software.
 
 Now we will look into our first troubleshooting iterations. As all the articles in this series, it starts with a graph.
+
 ![Burndown chart][burndown1]
+
 ## Flat line
 
 This was what our burn down chart looked like. We were flatlining —  we were working hard, and yet failing to complete most (any?) of the tasks that we were supposed to do, not delivering value at the end of the sprint. But **why**?
