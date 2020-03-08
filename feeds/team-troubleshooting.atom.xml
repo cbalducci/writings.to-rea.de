@@ -5,8 +5,9 @@
 
 
 &lt;h2&gt;Previous episodes&lt;/h2&gt;
-&lt;p&gt;In the previous &lt;a href="https://medium.com/@cbldc_/debugging-the-delivery-of-a-team-1-of-4-49a280c82785"&gt;blog&lt;/a&gt; we introduced the problem. We have a team, working with scrum, that is going through the movements but struggling to ship software.&lt;/p&gt;
-&lt;p&gt;Now we will look into our first troubleshooting iterations. As all the articles in this series, it starts with a graph.&lt;/p&gt;
+&lt;p&gt;In the previous &lt;a href="https://something.to-rea.de/debugging-the-delivery-of-a-team-14.html"&gt;blog&lt;/a&gt; we introduced the problem. We have a team, working with scrum, that is going through the movements but struggling to ship software.&lt;/p&gt;
+&lt;p&gt;Now we will look into our first troubleshooting iterations. As all the articles in this series, it starts with a graph.
+&lt;img alt="Burndown chart" src="https://something.to-rea.de/images/burndown1.png"&gt;&lt;/p&gt;
 &lt;h2&gt;Flat line&lt;/h2&gt;
 &lt;p&gt;This was what our burn down chart looked like. We were flatlining —  we were working hard, and yet failing to complete most (any?) of the tasks that we were supposed to do, not delivering value at the end of the sprint. But &lt;strong&gt;why&lt;/strong&gt;?&lt;/p&gt;
 &lt;p&gt;Taking a look at our process, one issue was standing out: our sprint planning sessions were taking way too long!
