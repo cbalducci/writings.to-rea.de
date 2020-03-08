@@ -15,6 +15,11 @@ This is where we left our team. After the previous changes in our ways of workin
 
 ![Burndown Chart][burndown3]
 
+> **A note on iteration length**
+
+> 
+One thing you probably noticed is that we moved to a sprint length of two weeks. This was done in the spirit of removing a bit of tension from the system: longer iterations are more forgiving than short one.
+
 ## Hitting the wall.
 
 The above chart exhibits a common pattern that appears when all the tasks in a sprint are blocked. When this happens, engineers will start to to pull new tasks in the sprint in order to stay utilised. 
@@ -46,11 +51,6 @@ In order to address the blockers, we need to **find** them first. To make it eas
 The result looks something like this:
 
 ![Dependencies graph][dependencies]
-
-> **A note on iteration length**
-
-> 
-One thing you probably noticed is that we moved to a sprint length of two weeks. This was done in the spirit of removing a bit of tension from the system: longer iterations are more forgiving than short one.
 
 ### Where we landed
 
