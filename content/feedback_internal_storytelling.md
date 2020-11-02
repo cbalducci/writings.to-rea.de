@@ -15,7 +15,7 @@ Sounds too good to be true, right? There is a catch though: to reap all the beau
 ## Potato/Potahto.
 When we reflect on it, it is evident that there is no such thing as an __objective__ reality. We know that different people experience events from different perspectives (quite literally, in the case of sight) and interpret the data in different ways, as dictated by their experience, biases and feelings. We know that our understanding of reality is not objective.
  
-Sometimes, often, we not only know but are also **aware** of this lack of objectivity. We keep it into account when making decisions. We look at things from someone else perspective, interpret reality in a somewhat more empathetic way. Other times, we are not so thoughtful and rational.
+Sometimes, often, we not only know but are also **aware** of this lack of objectivity. We take it into account when making decisions. We look at things from someone else perspective, interpret reality in a somewhat more empathetic way. Other times, we are not so thoughtful and rational.
 
 ## As narrated by the author.
 One peculiar way in which we interpret reality is our internal storytelling.
