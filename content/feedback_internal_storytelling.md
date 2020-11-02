@@ -1,6 +1,6 @@
 title: Feedback and internal storytelling 
 tags: management, feedback
-date: 02/11/2020
+date: 11/02/2020
 category: management
 author: Cristiano Balducci
 summary: How to make sure that the feedback you give is rooted in reality?
