@@ -22,12 +22,12 @@ All while delivering high quality software, at pace.
 
 ## Skillset
 
-**Excellent communicator**, enthusiastic about **team dynamics** and **team performances**, passionate about **Agile**.
+**Coach**, **excellent communicator**, enthusiastic about **team dynamics** and **team performances**, passionate about **Agile**.
 I am a driven individual that highly regards **transparency** and **dependability**.
 
-My main **leadership styles** is **coaching**, which I succesfully used to support people I work with in their growth. 
-
 My mixed background in system and software engineering allowed me to develop strong **problem solving** toolbox. My further career development into engineering leadership gave me the opportunity to build and lead **high performance teams** of different shapes and sizes.
+
+My main **leadership styles** are **coaching** and **democratic**. I enjoy helping people thinking about how to solve problems and I am deeply convinced that an high performance team is one where there is **trust** and **psychological safety**.
 
 ### Languages
 **Advanced**: Italian, English
@@ -43,6 +43,7 @@ _10/2020 - Present_
 
 Hired as Engineering Manager, part of growth in the local engineering site. Working with stream processing again. Helping my teams to become more autonomous and more resilient.
 Lot of focus on Operational Excellence, giving my team and neighboring teams the tools to improve the quality of the systems they build.
+Played an important part in updating our Enginering and Leadership Competency Framework.
 
 ### Squad Lead @ SkyScanner
 _10/2018 - 10/2020_
