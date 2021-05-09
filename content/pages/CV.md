@@ -16,6 +16,7 @@ I help software engineers to grow in their careers, teams to become more autonom
 All while delivering high quality software, at pace.
 
 ## Publications and Conferences
+- [Spaghetti Management Podcast](https://anchor.fm/spght-mgmt)
 - [Organiser and Presenter @ DevOps Days Edinburgh](https://devopsdays.org/events/2019-edinburgh/contact)
 - [A framework for impactful sprint goals](https://medium.com/@SkyscannerEng/3-1-questions-for-impactful-sprint-goals-48faa776aac3)
 - [Adopting Rolling Wave planning in Scrum](https://medium.com/@SkyscannerEng/dont-burn-out-burn-down-how-we-learned-to-sprint-on-shifting-sands-a67341c34fa8)
@@ -44,6 +45,11 @@ _10/2020 - Present_
 Hired as Engineering Manager, part of growth in the local engineering site. Working with stream processing again. Helping my teams to become more autonomous and more resilient.
 Lot of focus on Operational Excellence, giving my team and neighboring teams the tools to improve the quality of the systems they build.
 Played an important part in updating our Enginering and Leadership Competency Framework.
+
+### Co-founder and Co-host @ Spaghetti Management Podcast
+_10/2020 - Present_
+
+Created [Spaghetti Management](https://anchor.fm/spght-mgmt), a podcast about management targeting Italian speaking engineering leaders. On top of being an enjoyable creative outlet, it has also proven useful as a way of consolidating my learnings and debating my ideas with my co-host.
 
 ### Squad Lead @ SkyScanner
 _10/2018 - 10/2020_
