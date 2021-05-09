@@ -27,7 +27,7 @@ I am a driven individual that highly regards **transparency** and **dependabilit
 
 My mixed background in system and software engineering allowed me to develop strong **problem solving** toolbox. My further career development into engineering leadership gave me the opportunity to build and lead **high performance teams** of different shapes and sizes.
 
-My main **leadership styles** are **coaching** and **democratic**. I enjoy helping people thinking about how to solve problems and I am deeply convinced that an high performance team is one where there is **trust** and **psychological safety**.
+My main **leadership styles** are **coaching** and **democratic**. I enjoy helping people thinking about how to solve problems and I am deeply convinced that a high performance team is one where there is **trust** and **psychological safety**.
 
 ### Languages
 **Advanced**: Italian, English
@@ -55,7 +55,7 @@ Learnt a lot about building high performing teams by building one.
 _02/2016 - 10/2018_
 
 Hired as Senior DevOps Engineer with focus on big data technology. Strictly collaborated with the Unified Logging team helping them streamline their delivery practices. Built tooling with the team, allowing the management of the Cloudera instances the team managed via infrastructure as code.
-In the last 2 years i became engineering leader for the Engineering Operations team, building tooling for the other engineering teams in the org. I was responsible for the team's engineers career development, the team's well being and, obviously, for delivery.
+In the last 2 years I became engineering leader for the Engineering Operations team, building tooling for the other engineering teams in the org. I was responsible for the team's engineers career development, the team's well being and, obviously, for delivery.
 People manager, technical lead and agile coach, all in one package.
 
 ### Various Roles @ NoemaLife
