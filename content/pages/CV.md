@@ -39,10 +39,10 @@ My main **leadership styles** are **coaching** and **democratic**. I enjoy helpi
 
 ## Experience
 
-### Software Engineering Manager @ Kaluza
+### Software Engineering Manager @ Kaluza 
 _10/2020 - Present_
 
-Hired as Engineering Manager, part of growth in the local engineering site. Working with stream processing again. Helping my teams to become more autonomous and more resilient.
+Hired as Engineering Manager, part of growth in the local engineering site. Working with stream processing again. Helping my teams to become more autonomous and more resilient. Managed 2 full remote team. Contributed to a reorg which resulted in me managing the merging of two (different) teams to form a third one.
 Lot of focus on Operational Excellence, giving my team and neighboring teams the tools to improve the quality of the systems they build.
 Played an important part in updating our Enginering and Leadership Competency Framework.
 
@@ -55,7 +55,8 @@ Created [Spaghetti Management](https://anchor.fm/spght-mgmt), a podcast about ma
 _10/2018 - 10/2020_
 
 Hired as squad lead in the Engines Tribe, developing the core systems that make Skyscanner work. A lot of stream processing, working with frontend and backend events. Decommissioned some legacy systems, resuling in some tangible economic savings. Lead an initiative solving an unbounded problem on revenue tracking, successfully.
-Learnt a lot about building high performing teams by building one.
+Half way in my tenure, moved from managing a co-located team to managing a full remote team, which did not stopped us from getting 2 promotions in! 
+Learnt a lot about building high performing teams by building one. 
 
 ### Engineering Manager @ NCR
 _02/2016 - 10/2018_
