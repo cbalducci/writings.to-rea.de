@@ -7,8 +7,8 @@ status: hidden
 |   |   |
 |-|-|
 | **Nationality** | Italian |
-| **Address** | 15/8 West Tollcross, EH39QN, Edinburgh, UK |
-| **Phone** | +44 7426949609 |
+| **Address** | Carrer de Maspons 28, 08012, Barcelona, Catalunya, Spain |
+| **Phone** | +34 626327674 |
 | **Email** | cristiano.balducci@gmail.com |
 
 ## Summary
@@ -39,8 +39,15 @@ My main **leadership styles** are **coaching** and **democratic**. I enjoy helpi
 
 ## Experience
 
+### Software Engineering Manager @ Spotify
+_02/2022 - Present_
+
+Hired as Engineering Manager for the Growth squad at Soundtrap, Spotify's online Digital Audio Workstation offering. Guided the team from working in silos to being the tribe's best performing squad whilst increasing their scope. Tasked to work with an additional squad on a C-level sponsored exploratory work stream (under NDA), which delivered on time. Moved to Engineering Lead for the Music Maker business unit in Soundtrap. Managed 4 squads for a total of 18 people, between software engineers and managers. Built a successful promotion case to Senior Engineering Manager with just 1 year of tenure in the company.
+First time working on a purely frontend team. First time working in Head of Engineering capacity for a whole Product Area.
+Learnt a LOT about business metrics, product outcomes and how to manage managers.
+
 ### Software Engineering Manager @ Kaluza 
-_10/2020 - Present_
+_10/2020 - 12/2021_
 
 Hired as Engineering Manager, part of growth in the local engineering site. Working with stream processing again. Helping my teams to become more autonomous and more resilient. Managed 2 full remote team. Contributed to a reorg which resulted in me managing the merging of two (different) teams to form a third one.
 Lot of focus on Operational Excellence, giving my team and neighboring teams the tools to improve the quality of the systems they build.
